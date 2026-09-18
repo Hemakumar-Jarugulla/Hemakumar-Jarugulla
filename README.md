@@ -15,23 +15,28 @@
   ============================================================
 -->
 
+<!-- 🌈 Top Banner (edit text=, color=, and the two hex codes in color=0:HEX,100:HEX for a different gradient) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E54E9&height=220&section=header&text=Hemakumar%20Jarugulla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+</p>
+
 <div align="center">
 
 <!-- 🌐 Animated Typing Banner (edit the ?lines= text to change what it types) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Hemakumar+Jarugulla;Python+Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8E54E9&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Diving+Deep+into+DSA+with+Python+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%92%BB" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <!-- 👤 Quick Info Badges -->
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20Telangana-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Recent%20Graduate-brightgreen?style=flat-square&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=flat-square&logo=briefcase&logoColor=white" />
+<img src="https://img.shields.io/badge/📍_Location-Hyderabad%2C%20Telangana-2E9EF7?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🎓_Status-Recent%20Graduate-8E54E9?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/💼_Open%20to-Work-4CAF50?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
 
 <!-- 🔗 Connect Links -->
 <a href="https://my-personal-portfolio-website-com-rr7q.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://drive.google.com/file/d/1I8lM83MMnJJAhJRTurkf9froJC4Z7al6/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
@@ -47,7 +52,11 @@
 
 <br/>
 
----
+<!-- 🌈 Colored section divider (reused throughout — swap the color= hex to theme it differently) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E54E9&height=4&width=1000" width="100%"/>
+<br/>
+
+<br/>
 
 ## 🧠 About Me
 
@@ -70,7 +79,10 @@ My short-term goal is to start my career as a **Python Full Stack Developer** an
 ### 😄 Fun Fact
 I enjoy turning ideas into small software projects and learning something new whenever I get the opportunity. I'm also a big cricket fan — **MS Dhoni** is my favourite cricketer! 🏏
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E54E9&height=4&width=1000" width="100%"/>
+<br/>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -106,7 +118,10 @@ I enjoy turning ideas into small software projects and learning something new wh
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E54E9&height=4&width=1000" width="100%"/>
+<br/>
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -135,7 +150,10 @@ A **Python-based web application** simulating basic ATM operations through a use
 **Tech Stack:** `Python` `Flask` `HTML` `CSS`
 🔗 [Repository](https://github.com/Hemakumar-Jarugulla/ATM-project-Flask.git)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E54E9&height=4&width=1000" width="100%"/>
+<br/>
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -150,7 +168,10 @@ A **Python-based web application** simulating basic ATM operations through a use
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E54E9&height=4&width=1000" width="100%"/>
+<br/>
+
+<br/>
 
 ## 🏆 Achievements & Certifications
 
@@ -161,7 +182,10 @@ A **Python-based web application** simulating basic ATM operations through a use
 - 🐍 **Python (Basic)** — HackerRank Certification
 - 🗄️ **SQL (Basic)** — HackerRank Certification
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E54E9&height=4&width=1000" width="100%"/>
+<br/>
+
+<br/>
 
 ## 📚 Currently Learning
 
@@ -172,7 +196,10 @@ A **Python-based web application** simulating basic ATM operations through a use
 
 🎯 **Currently going deep into Data Structures & Algorithms with Python** — building strong problem-solving foundations through consistent daily practice on LeetCode (🔥 50-day badge earned). Alongside DSA, I'm also sharpening my skills across **MySQL, HTML, CSS, JavaScript, React JS, Bootstrap, and Flask** — moving from foundational concepts toward building more complex, production-ready full-stack applications.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E54E9&height=4&width=1000" width="100%"/>
+<br/>
+
+<br/>
 
 ## 🤝 Open to Collaborate On
 
@@ -182,7 +209,10 @@ A **Python-based web application** simulating basic ATM operations through a use
 - 💼 Freelance opportunities in web development
 - 📘 Learning-focused collaborations (DSA, SQL, full-stack practice)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E54E9&height=4&width=1000" width="100%"/>
+<br/>
+
+<br/>
 
 ## 📫 Connect With Me
 
