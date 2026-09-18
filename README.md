@@ -8,10 +8,7 @@
   2. Put this file inside it as README.md — GitHub will auto-render
      it on your profile page.
   3. Edit anything inside <!-- comments like this --> below to update.
-  4. Widgets (stats, streaks, typing banner) are powered by free
-     third-party services (readme-typing-svg, github-readme-stats,
-     streak-stats). If any image looks broken, it usually means the
-     service is temporarily down — just refresh later.
+ 
   ============================================================
 -->
 
